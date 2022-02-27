@@ -1,6 +1,6 @@
 -- ui
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("⚡ Speed Simulator", "Serpent")
+local Window = Library.CreateLib("⚡ Speed Simulator", "Ocean")
 
 local FT = Window:NewTab("Farming")
 local FS = FT:NewSection("Farms")
